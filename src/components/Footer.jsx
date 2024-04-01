@@ -5,7 +5,7 @@ export function Footer() {
                 <div>----- Made By</div >
                 <a href="https://www.linkedin.com/in/pranav-kumar-singh-1a365124a/"><div className="text-blue-600">: Pranav Kumar Singh</div></a>
                 <div>, inspired by</div>
-                <a href="https://dukan-app-ui.netlify.app/">
+                <a href="https://twitter.com/subhashchy/status/1744308069751025894?t=MrLV-PSnfsgv0Hg2jTz5JA&s=08">
                     <div className="text-blue-600">- Dukaan App UI</div>
                 </a>
                 <div>-----</div>
