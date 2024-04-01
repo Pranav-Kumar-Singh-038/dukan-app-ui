@@ -24,6 +24,15 @@ export default {
         },
         mySearchgrey:{
           500:'#808080'
+        },
+        fontSize: {
+          'xxs': '0.25rem',
+        },
+        myIndigo:{
+          500:'#1e2640'
+        },
+        myLightIndigo:{
+          100:'#353c53'
         }
       }
     },

@@ -1,6 +1,6 @@
 export function NextPayoutCard({ amount, orders, nextPayoutDate }) {
     return (
-        <div className="border shadow-lg rounded text-white">
+        <div className="border shadow-lg rounded text-white m-3">
             <div className="bg-myBlue-500 p-3 rounded-t hover:bg-myLightblue-500">
             <div className="flex">
                 <div className="">Next Payout</div>

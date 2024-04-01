@@ -1,6 +1,6 @@
 export function RevenueCard({ amount, orders }) {
     return (
-        <div className="border p-4 shadow-lg rounded">
+        <div className="border p-4 shadow-lg rounded m-3">
             <div className="flex text-Mygrey-500">
                 <div className="">Amount Pending</div>
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-4 h-6 mx-3">
