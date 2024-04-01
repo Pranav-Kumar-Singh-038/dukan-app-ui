@@ -36,6 +36,12 @@ To run this project locally, follow these steps:
 
 [dukan-app-ui](https://dukan-app-ui.netlify.app/)
 
+
 ## Preview
 
 [Dukan App FrontEnd Preview](https://youtu.be/mmdieewTAAk)
+
+
+## Dukan-Frontend
+
+![dukkan-app-ui](./src/assets/dukaan-app-ui.gif) 
