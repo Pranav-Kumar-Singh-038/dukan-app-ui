@@ -38,4 +38,4 @@ To run this project locally, follow these steps:
 
 ## Preview
 
-![Dukan App FrontEnd Preview]([https://youtu.be/mmdieewTAAk](https://youtu.be/mmdieewTAAk))
+![Dukan App FrontEnd Preview](https://youtu.be/mmdieewTAAk)
